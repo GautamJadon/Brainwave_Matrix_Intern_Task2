@@ -80,32 +80,6 @@ Response:
   "Anomaly_Detection_Prediction": 1
 }
 
-Model Performance 🎯
-
-Model
-
-Accuracy
-
-Precision
-
-Recall
-
-Random Forest
-
-99.2%
-
-98.5%
-
-97.8%
-
-Autoencoder
-
-97.3%
-
-95.6%
-
-96.2%
-
 Future Improvements 🛠️
 
 Implement a hybrid decision-making strategy combining both models.
@@ -113,12 +87,3 @@ Implement a hybrid decision-making strategy combining both models.
 Use additional feature engineering techniques to improve accuracy.
 
 Deploy the model using FastAPI for better performance.
-
-Author ✨
-
-👤 Gautam Jadon🔗 GitHub | LinkedIn
-
-License 📜
-
-This project is licensed under the MIT License.
-
