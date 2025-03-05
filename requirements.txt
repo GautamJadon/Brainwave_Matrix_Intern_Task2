@@ -1,0 +1,11 @@
+flask
+flask-ngrok
+numpy
+pandas
+scikit-learn
+tensorflow
+joblib
+pyngrok
+gunicorn
+
+#make sure to run :pip install -r requirements.txt
